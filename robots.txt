@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baxku.github.io/aRK/sitemap.aRK.gz
