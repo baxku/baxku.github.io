@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baxku.csgad.com/Dag/sitemap.xml.gz
